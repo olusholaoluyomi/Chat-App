@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "42670349068",
+    "firebase_url": "https://chat-app-ed2c1.firebaseio.com",
+    "project_id": "chat-app-ed2c1",
+    "storage_bucket": "chat-app-ed2c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42670349068:android:c9dd04e73fc58d42524729",
+        "android_client_info": {
+          "package_name": "olushola.com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42670349068-lb82ckfjqm0uae2qaoc8a1vr0r7jn7th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2p7nwx25qFTwXwMvgGSbR6CI0bvhnBos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42670349068-lb82ckfjqm0uae2qaoc8a1vr0r7jn7th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
